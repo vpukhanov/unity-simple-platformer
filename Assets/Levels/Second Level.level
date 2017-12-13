@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Level Name="Second Level">
+  <Block Type="Ground" X="1" Y="2" />
+  <Block Type="Ground" X="2" Y="2" />
+  <Block Type="Ground" X="3" Y="2" />
+  <Block Type="Gem" X="1" Y="1" />
+  <Block Type="Gem" X="2" Y="1" />
+  <Block Type="Gem" X="3" Y="1" />
+  <Block Type="Ground" X="0" Y="0" />
+  <Block Type="Ground" X="1" Y="0" />
+  <Block Type="Ground" X="2" Y="0" />
+  <Block Type="Ground" X="3" Y="0" />
+  <Block Type="Ground" X="4" Y="0" />
+  <Player X="0" Y="1" />
+  <Exit X="4" Y="1" />
+</Level>

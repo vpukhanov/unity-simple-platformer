@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Level ID="1" Name="First Level">
+    <Block Type="Ground" X="0" Y="0"/>
+    <Block Type="Ground" X="1" Y="0"/>
+    <Block Type="Ground" X="2" Y="0"/>
+    <Block Type="Gem" X="1" Y="2"/>
+    <Player X="0" Y="1"/>
+    <Exit X="2" Y="1" />
+</Level>
